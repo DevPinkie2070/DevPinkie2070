@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevPinkie2070
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning HTML, CSS, JS, PHP, Lua
+- 👀 I’m interested in Web Developement and IOS Developement
+- 🌱 I’m currently learning HTML, CSS, JS, PHP, SWIFT
 
 
 <!---
