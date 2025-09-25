@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm @DevPinkie2070</h1>
+<h1 align="center">👋 Hi there, I'm Pinkie2070</h1>
 
 <p align="center">
   💻 Web, iOS and FiveM Developer | 🌱 Lifelong Learner | 🚀 Future Tech Enthusiast  
