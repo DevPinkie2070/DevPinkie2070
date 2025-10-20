@@ -1,72 +1,82 @@
-<!-- 🌌 Pinkie2070 - Neon Futuristic GitHub README -->
-
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff66cc, #9966ff, #33ccff); -webkit-background-clip: text; color: transparent;">
-    👋 Hey, I'm Pinkie2070
-  </span>
-</h1>
+<!-- 💫 PINKIE2070 | Neon Futuristic Developer Profile -->
 
 <p align="center">
-  💻 Web, iOS & FiveM Developer<br/>
-  🌱 Lifelong Learner · 🚀 Future Tech Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff66cc,50:9966ff,100:33ccff&height=120&section=header&text=PINKIE2070&fontColor=ffffff&fontAlignY=35&fontSize=50&desc=Web%20%7C%20iOS%20%7C%20FiveM%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 ---
 
-### 🌈 About Me
+## 👾 About Me
 
-✨ Passionate about crafting clean, dynamic, and futuristic apps.  
-💡 Constantly learning & improving — one line of code at a time.  
+> “Code the future, one neon pixel at a time.”
 
-**Currently exploring:**
-- 🕸️ HTML · CSS · JavaScript  
-- 🧩 Lua (for FiveM)  
-- 🍎 Swift (for iOS)  
+Hey, I’m **Pinkie2070** — a creative mind driven by code and curiosity.  
+I blend design and logic to create **immersive, clean, and futuristic experiences** across the web and iOS.  
 
-🎯 Goal: Build software that feels **alive**, elegant, and full of energy.  
+- 🧠 Always exploring the **next digital horizon**  
+- 🕹️ Love combining **aesthetic & functionality**  
+- 🧩 Currently mastering:
+  - `Lua` (FiveM)
+  - `Swift` (iOS)
+  - `WebStack` → HTML · CSS · JavaScript  
+
+💬 Motto: *“Beautiful code feels alive.”*
 
 ---
 
-### ⚙️ Tech Stack
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23ff6b6b?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%236b8bff?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23ffe873?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Lua-%239c6bff?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-%23ff8f6b?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23f05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,swift,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-### 💾 GitHub Stats
+## 📊 System Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPinkie2070&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff66cc&icon_color=33ccff" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPinkie2070&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9966ff" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPinkie2070&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff66cc&icon_color=33ccff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPinkie2070&theme=radical&hide_border=true&background=0d1117&ring=9966ff&fire=ff66cc" width="48%" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🧬 Projects & Focus
+
+🚀 **FiveM Systems** – intuitive, performance-driven Lua scripts  
+📱 **iOS Development** – Swift-based interfaces that *feel alive*  
+🌐 **Web Apps** – minimalistic, fast & adaptive UIs  
+
+I believe software should not only **work** — it should **resonate**.  
+The goal is not to make apps, but **experiences**.
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/DevPinkie2070" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-ff66cc?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9966ff?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-33ccff?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 💭 Quote
+
 <p align="center">
-  <span style="color:#ff66cc;">🛠️</span> 
-  <i style="color:#b8b8ff;">"Code is like humor. When you have to explain it, it’s bad."</i><br/>
-  <span style="color:#9966ff;">– Cory House</span>
+  <i style="color:#b8b8ff;">“The future belongs to those who can see it — and code it.”</i><br/>
+  <span style="color:#ff66cc;">– Pinkie2070</span>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff66cc,50:9966ff,100:33ccff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,50:9966ff,100:ff66cc&height=100&section=footer"/>
 </p>
