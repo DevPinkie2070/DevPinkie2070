@@ -23,7 +23,7 @@ I blend design and logic to create **immersive, clean, and futuristic experience
   - `Swift` (iOS)
   - `WebStack` → HTML · CSS · JavaScript  
 
-💬 Motto: *“Beautiful code feels alive.”*
+💬 Motto: *“Work smart not hard.”*
 
 ---
 
