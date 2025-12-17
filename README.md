@@ -47,7 +47,6 @@ I blend design and logic to create **immersive, clean, and futuristic experience
 ## 🧬 Projects & Focus
 
 🚀 **FiveM Systems** – intuitive, performance-driven Lua scripts  
-📱 **iOS Development** – Swift-based interfaces that *feel alive*  
 🌐 **Web Apps** – minimalistic, fast & adaptive UIs  
 
 I believe software should not only **work** — it should **resonate**.  
