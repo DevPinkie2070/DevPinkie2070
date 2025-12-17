@@ -20,8 +20,8 @@ I blend design and logic to create **immersive, clean, and futuristic experience
 - 🕹️ Love combining **aesthetic & functionality**  
 - 🧩 Currently mastering:
   - `Lua` (FiveM)
-  - `Swift` (iOS)
-  - `WebStack` → HTML · CSS · JavaScript  
+  - `WebStack` → HTML · CSS · JavaScript
+  - `Learning` → React
 
 💬 Motto: *“Work smart not hard.”*
 
@@ -30,7 +30,7 @@ I blend design and logic to create **immersive, clean, and futuristic experience
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,swift,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
