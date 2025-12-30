@@ -35,11 +35,13 @@ I blend design and logic to create **immersive, clean, and futuristic experience
 
 ---
 
-## 📊 System Stats
+
+## 📊 Discord Presence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPinkie2070&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff66cc&icon_color=33ccff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPinkie2070&theme=radical&hide_border=true&background=0d1117&ring=9966ff&fire=ff66cc" width="48%" />
+  <a href="https://discord.com/users/1077249631077007470">
+    <img src="https://lanyard.cnrad.dev/api/1077249631077007470?borderRadius=20px&showDisplayName=true&hideDecoration=true" alt="Discord Presence" />
+  </a>
 </p>
 
 ---
